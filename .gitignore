@@ -1,8 +1,13 @@
+myenv/
+venv/
+env/
 __pycache__/
 *.pyc
-*.pkl
-*.npy
-*.h5
-myenv/
+*.pyo
+*.pyd
 .gradio/
+data/
 Plant_testimages/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
