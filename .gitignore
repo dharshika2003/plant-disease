@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+*.h5
+myenv/
+.gradio/
+Plant_testimages/
