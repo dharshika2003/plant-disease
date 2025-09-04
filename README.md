@@ -78,6 +78,7 @@ Severity Estimation:
 Deployment:
 Gradio-based web interface for real-time predictions.
 
+recording: https://drive.google.com/drive/folders/1937DiNoyZ23w7nGjRTh3h_a1sID4sMlW?usp=sharing
 
 
 
